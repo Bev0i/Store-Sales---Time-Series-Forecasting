@@ -2,7 +2,7 @@
 
 
 ## 📑Table of Contents
-1. [Project Overview](📈-Project-Overview)
+1. [Project Overview]()
 2. [Project Structure](#project-structure)
 3. [Installation and Setup](#installation-and-setup)
 4. [Project Steps](#project-steps)
